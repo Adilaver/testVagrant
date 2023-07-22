@@ -7,7 +7,7 @@ Open a terminal or command prompt and change your current working directory to t
 Install dependencies:
 Run the following command to install the required readline package ==> "npm install readline"
 
-Run the Program using command in terminal==> "node app.js"
+Run the Program using command in terminal==> "node recently_played_test.js"
 
 Interact with the Program:
 "The program will prompt you to enter the song name and user name. You can enter the song name and the user name to add recently played songs for a user. The program will keep track of the last 3 songs played for each user".
